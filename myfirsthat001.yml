@@ -1,5 +1,5 @@
 ---
-- hosts: 172.31.94.82
+- hosts: all
   become: yes
   tasks: 
   - name: i want install httpd on redhat
