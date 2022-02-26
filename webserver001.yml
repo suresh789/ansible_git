@@ -2,7 +2,7 @@
 - hosts: all
   become: yes
   tasks: 
-   - name:
-      apt:
+   - name: i want to install apache2
+     apt:
         name: apache2
         state: present
