@@ -1,4 +1,4 @@
 ---
 key: value
 mywebserverpackforubuntu: apache2
-mywebserverpackforRedHat: httpddd
+mywebserverpackforRedHat: httpd
