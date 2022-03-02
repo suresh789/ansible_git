@@ -1,4 +1,4 @@
 ---
 key: value
-mywebserverpackforubuntu: apache22222
+mywebserverpackforubuntu: apache2
 mywebserverpackforRedHat: httpd
