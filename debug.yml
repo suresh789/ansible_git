@@ -9,3 +9,12 @@
   - name: i want display the first task result
     debug:
       msg: "{{myfirsttaskresult}}"
+  - name: install git
+    apt: 
+      name: git
+      state: present
+
+  - name: install tree
+    apt: 
+       name: tree
+       state: present
