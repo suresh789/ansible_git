@@ -2,3 +2,6 @@
 key: value
 mywebserverpackforubuntu: apache2
 mywebserverpackforRedHat: httpd
+
+myJavaVarforUbuntu: openjdk-8-jre
+myJavaVarforRedHat: java-1.8.0-openjdk
